@@ -10,7 +10,9 @@ function App() {
             {/* <Container>
                 <Row> */}
             <Header />
-            <TableUsers />
+            <Container>
+                <TableUsers />
+            </Container>
             {/* </Row>
             </Container> */}
         </div>
