@@ -17,7 +17,6 @@ const TableUsers = (props) => {
             setListUsers(res.data.data);
         }
     };
-    console.log(listUsers);
 
     return (
         <>
